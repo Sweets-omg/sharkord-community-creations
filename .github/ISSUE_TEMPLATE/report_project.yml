@@ -1,0 +1,34 @@
+name: Report a Project
+description: Report a project for malicious behavior or rule violations.
+title: "[Report]: Project Name"
+labels: ["report"]
+body:
+  - type: input
+    id: project_name
+    attributes:
+      label: Project Name
+    validations:
+      required: true
+
+  - type: input
+    id: repo_url
+    attributes:
+      label: Repository URL
+    validations:
+      required: true
+
+  - type: textarea
+    id: issue_description
+    attributes:
+      label: Description of the Issue
+      description: Provide detailed evidence. Include links to commits or files.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I understand that false or unsupported accusations may result in moderation action.
+          required: true
