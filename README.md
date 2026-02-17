@@ -7,22 +7,23 @@ A curated list of community-created projects built around **Sharkord**.
 ---
 
 ## 📦 Clients
-- **Sharkord Desktop** - A desktop client for Sharkord. Features communities, server panel, in-app input control.
-  🔗 [Github Repository](https://github.com/Bugel/sharkorddesktop)
-  
-- **Sweetshark Client** – A multi-server desktop client for Sharkord built with Electron.  
-  🔗 [GitHub Repository](https://github.com/Sweets-omg/Sweetshark-client)
-  
+
+| Project | Description | Repository |
+|----------|-------------|------------|
+| **Sharkord Desktop** | A desktop client for Sharkord featuring communities, server panel, and in-app input control. | [GitHub Repository](https://github.com/Bugel/sharkorddesktop) |
+| **Sweetshark Client** | A multi-server desktop client for Sharkord built with Electron. | [GitHub Repository](https://github.com/Sweets-omg/Sweetshark-client) |
+
 ---
 
 ## 🔌 Plugins
 
-- **Plugin Name** – Short description of functionality.  
-  🔗 [GitHub Repository](https://github.com/user/repo)
+| Project | Description | Repository |
+|----------|-------------|------------|
+| **Plugin Name** | Short description of functionality. | [GitHub Repository](https://github.com/user/repo) |
 
 ---
 
-## 🚀 How to contribute
+## 🚀 How to Contribute
 
 Want your project listed here? Follow the guidelines below:
 
@@ -30,8 +31,9 @@ Want your project listed here? Follow the guidelines below:
 
 1. Fork this repository.
 2. Add your project under the appropriate category.
-3. Follow the existing formatting style exactly.
-4. Open a Pull Request with a clear title.
+3. Follow the existing table formatting exactly.
+4. Add your project to the bottom of its respective category.
+5. Open a Pull Request with a clear title.
 
 ### Submission Rules
 
@@ -40,7 +42,6 @@ Want your project listed here? Follow the guidelines below:
 - The repository should include a README explaining what it does.
 - The project must not contain malicious or harmful code.
 - Keep your description concise (1–2 sentences).
-- New submissions are always added at the bottom of its respective category.
 
 ### Removal Requests
 
