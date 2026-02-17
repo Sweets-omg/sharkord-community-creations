@@ -23,6 +23,13 @@ A curated list of community-created projects built around **Sharkord**.
 
 Want your project listed here? Follow the guidelines below:
 
+### How to Apply
+
+1. Fork this repository.
+2. Add your project under the appropriate category.
+3. Follow the existing formatting style exactly.
+4. Open a Pull Request with a clear title.
+
 ### Submission Rules
 
 - Your project must be publicly available on GitHub.
@@ -31,13 +38,6 @@ Want your project listed here? Follow the guidelines below:
 - The project must not contain malicious or harmful code.
 - Keep your description concise (1–2 sentences).
 - New submissions are always added at the bottom of its respective category.
-
-### How to Apply
-
-1. Fork this repository.
-2. Add your project under the appropriate category.
-3. Follow the existing formatting style exactly.
-4. Open a Pull Request with a clear title.
 
 ### Reporting or Removal Requests
 
