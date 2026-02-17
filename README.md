@@ -28,6 +28,7 @@ Want your project listed here? Follow the guidelines below:
 - The repository should include a README explaining what it does.
 - The project must not contain malicious or harmful code.
 - Keep your description concise (1–2 sentences).
+- New submissions are always added as last on the current list.
 
 ### How to Apply
 
