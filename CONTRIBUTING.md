@@ -10,7 +10,7 @@ This repository is a curated list of projects built around Sharkord. To maintain
 
 Your project must:
 
-- Be publicly available on GitHub.
+- Be publicly available on GitHub or a similiar alternative.
 - Clearly use, extend, or integrate with Sharkord.
 - Include a README explaining what it does.
 - Not contain malicious or harmful code.
@@ -24,7 +24,7 @@ All submissions must follow this exact table format:
 
 | Project | Description | Repository |
 |----------|-------------|------------|
-| **Project Name** | Short 1–2 sentence description. | [GitHub Repository](https://github.com/user/repo) |
+| **Project Name** | Short 1–2 sentence description. | [GitHub/Other Repository](https://github.com/user/repo) |
 
 ### Rules:
 
