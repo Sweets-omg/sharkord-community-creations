@@ -3,12 +3,6 @@ description: Request removal of a listed project.
 title: "[Removal]: Project Name"
 labels: ["removal"]
 body:
-  - type: input
-    id: project_name
-    attributes:
-      label: Project Name
-    validations:
-      required: true
 
   - type: input
     id: repo_url
