@@ -19,6 +19,7 @@ A curated list of community-created projects built around [**Sharkord**](https:/
 |----------|-------------|------------|
 | **Sharkord Desktop** | A desktop client for Sharkord featuring communities, server panel, and in-app input control. | [GitHub Repository](https://github.com/Bugel/sharkorddesktop) |
 | **Sweetshark Client** | A multi-server desktop client for Sharkord built with Electron. | [GitHub Repository](https://github.com/Sweets-omg/Sweetshark-client) |
+| **Sharkord Electron Client** | An Electron-based desktop client with a global mute hotkey and planned screen sharing with windows-based audio. | [GitHub Repository](https://github.com/NoHuDev/sharkord-electron-client) |
 
 ---
 
