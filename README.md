@@ -28,7 +28,7 @@ A curated list of community-created projects built around [**Sharkord**](https:/
 
 | Project | Description | Repository |
 |----------|-------------|------------|
-| **Shakord Soundboard** | A Sharkord plugin that adds a soundboard panel for playing shared sound effects in voice channels. | [GitHub Repository](https://github.com/rinky-dinky/sharkord-soundboard) |
+| **Sharkord Soundboard** | A Sharkord plugin that adds a soundboard panel for playing shared sound effects in voice channels. | [GitHub Repository](https://github.com/rinky-dinky/sharkord-soundboard) |
 
 ---
 
